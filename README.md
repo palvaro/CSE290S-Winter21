@@ -15,7 +15,7 @@ Hi prospective students!  This page is a placeholder for the Winter 2021 Special
 
 I have been so busy with *gestures around* that I have not yet chosen the special topic!  Here are some things that I can say for sure about the course:
 
- * it is a reading seminar in research.  this means that we will read and discuss a lot of papers.  it means that we will come to class prepared to discuss the papers critically; to talk about how the research was carried out, what questions it attempted to answer, and ultimately whether it was successful.
+ * it is a reading seminar in systems research.  this means that we will read and discuss a lot of conference papers.  it means that we will come to class prepared to discuss the papers critically; to talk about how the research was carried out, what questions it attempted to answer, and ultimately whether it was successful.
  
  * it is not a lecture course.  I will prepare for each class in the same way you will: by reading a paper or two critically and coming to class ready to dig in and/or argue.
  
