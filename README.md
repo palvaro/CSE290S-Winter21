@@ -1,15 +1,31 @@
-# CMPS290S-Winter16: 
+# CSE290S-Winter21: 
 ## Distributed storage systems and programming models
 | key | value | 
 |-----|-------|
-|When: | Tuesdays and Thursdays at <b>Noon</b>. |
-|Where: | Social Sciences 2, 159 |
+|When: | TBD |
+|Where: | TBD |
 |Who: | Peter Alvaro |
-|Office hours: | Tue 2-3pm, Thu 10:45 - 11:45 |
+|Office hours: | TBD |
 |Prerequisites: | A background in systems and an interest in theory |
-|Readings: | [Readings](https://github.com/palvaro/CMPS290S-Winter16/blob/master/readings.md) (volatile; subject to significant change)|
+|Readings: | [Readings](https://github.com/palvaro/CSE290S-Winter21/blob/master/readings.md) (volatile; subject to significant change)|
 
 # Description
+
+Hi prospective students!  This page is a placeholder for the Winter 2021 Special Topics Seminar in Distributed Systems.
+
+I have been so busy with *gestures around* that I have not yet chosen the special topic!  Here are some things that I can say for sure about the course:
+
+ * it is a reading seminar in research.  this means that we will read and discuss a lot of papers.  it means that we will come to class prepared to discuss the papers critically; to talk about how the research was carried out, what questions it attempted to answer, and ultimately whether it was successful.
+ 
+ * it is not a lecture course.  I will prepare for each class in the same way you will: by reading a paper or two critically and coming to class ready to dig in and/or argue.
+ 
+ * to make all of this work, I will do my best to keep the class size small so that we can have meaningful discussions in which everyone feels included.
+ 
+ * I will update this page soon with details about the specific topics on which the course will focus.
+ 
+ In the meantime, I provide an example of a past special topics seminar that I taught a number of years ago.  The syllabus for that course follows:
+
+# Example Description
 
 This graduate seminar will explore distributed systems research, both current and historical, with a particular focus on storage systems and programming models.
 
