@@ -1,5 +1,5 @@
 # CSE290S-Winter21: 
-## Resiliency in Giant-scale Systems
+## Resilience in Giant-scale Systems
 | key | value | 
 |-----|-------|
 |When: | MWF 1:20 - 2:25PM |
