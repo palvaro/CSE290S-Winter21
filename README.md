@@ -1,5 +1,5 @@
 # CSE290S-Winter21: 
-## Distributed storage systems and programming models
+## Resiliency in Giant-scale Systems
 | key | value | 
 |-----|-------|
 |When: | TBD |
@@ -11,49 +11,48 @@
 
 # Description
 
-Hi prospective students!  This page is a placeholder for the Winter 2021 Special Topics Seminar in Distributed Systems.
-
-I have been so busy with *gestures around* that I have not yet chosen the special topic!  Here are some things that I can say for sure about the course:
-
- * it is a reading seminar in systems research.  this means that we will read and discuss a lot of conference papers.  it means that we will come to class prepared to discuss the papers critically; to talk about how the research was carried out, what questions it attempted to answer, and ultimately whether it was successful.
- 
- * it is not a lecture course.  I will prepare for each class in the same way you will: by reading a paper or two critically and coming to class ready to dig in and/or argue.
- 
- * to make all of this work, I will do my best to keep the class size small so that we can have meaningful discussions in which everyone feels included.
- 
- * I will update this page soon with details about the specific topics on which the course will focus.
- 
- In the meantime, I provide an example of a past special topics seminar that I taught a number of years ago.  The syllabus for that course follows:
-
-# Example Description
-
-This graduate seminar will explore distributed systems research, both current and historical, with a particular focus on storage systems and programming models.
+This graduate reading seminar will explore cutting-edge systems research on large-scale distributed systems, with a particular focus
+on fault tolerance (broadly defined).
 
 Due to fundamental uncertainty in their executions arising from asynchronous communication and partial failure, distributed systems present unique challenges to programmers and users.  Moreover, distributed systems are increasingly ubiquitous: nearly all non-trivial systems are now physically distributed.  It is no longer possible to relegate responsibility for managing the complexity of distributed systems to a group of expert library or infrastructure writers: all programmers must now be distributed programmers. This is both a crisis and an opportunity.
 
-A great deal of theoretical work in distributed systems establishes important impossibility results, including the famous FLP result, the CAP Theorem, the two generals problem and the impossibility of establishing common knowledge via protocol.  These results tell us what we *cannot* achieve in a distributed system, or more constructively, they tell us about the properties we must trade off for the properties we require when designing or using large-scale systems.  But what *can* we achieve?  The history of applied distributed systems work is largely the history of infrastructures -- storage systems as well as programming models -- that attempt to manage the fundamental complexity of the domain with a variety of abstractions.  
+Large-scale web services such as Google, Facebook, Twitter, Amazon, Netflix, and many others require the cooperation of many thousands
+of physical computers, any of which may fail or misbehave at any time, to support their user-facing services.  How do these sites
+continue to run?  Exactly how and why do they (rarely) fail to run?  How does the state of the art in resiliency for these massive-scale
+systems look different than it did a mere decade ago?  I would very much like to discuss these questions in the context of receent research.
 
-This course focuses on these systems, models and languages.  We will cover the following topics:
+Readings will be drawn from academic as well as industrial sources.  Topics will include emerging work on:
+
+ * Lightweight software verification techniques
+ * Bug finding approaches, including fault injection, and fuzzing.
+ * Debugging frameworks
+ * Tracing and data lineage collection
+ * Configuration and release management
+ * Scaleable and robust infrastructures
+ * Incident response and remediation
+
+
+To make good on the promise of ``cutting edge'' research, I will constrain our choice of papers to work published in the last three years at the top systems conferences (primarily SOSP, OSDI, NSDI and ATC, although we can make some exceptions).
+
+
+We will come to class prepared to discuss the papers critically; to talk about how the research was carried out, what questions it attempted to answer, and ultimately whether it was successful. This is not a lecture course.  I will prepare for each class in the same way you will: by reading a paper or two critically and coming to class ready to dig in and/or argue. To make all of this work, I will do my best to keep the class size small so that we can have meaningful discussions in which everyone feels included.
+ 
+I will update this page soon with details about the specific topics on which the course will focus.
  
 
- * Consistency models
- * Large-scale storage systems and data processing frameworks
- * Commit, consensus and synchronization protocols
- * Data replication and partitioning
- * Fault-tolerant design
- * Programming models
- * Distributed programming languages and program analysis
- * Seminal theoretical results in distributed systems
- 
 # Readings
 
-This course is a research seminar: we will focus primarily on reading and discussing conference papers.  We will read 1-2 papers (typically 2) per session; for each paper, you will provide a brief summary (about 1 page).  The summary should answer some or all of the following questions:
+This course is a research seminar: we will focus primarily on reading and discussing conference papers.  We will read 1-2 papers (typically 1) per session; for each paper, you will provide a brief summary (about 1 page).  The summary should answer some or all of the following questions:
 
  * What problem does the paper solve?  Is is important?
  * How does it solve the problem? 
  * What alternative approaches are there? Are they adequately discussed in the reading?
  * How does this work relate to other research, whether covered in this course or not?
  * What specific research questions, if any, does the paper raise for you?
+
+The tentative reading list for this class (a work in progress) can be found here:
+
+[Readings](https://docs.google.com/spreadsheets/d/1MAhmHa4JQfOIXcwKv63uL9WlO1NBzfosml8oAEb3qJo/)
  
  
 # Presentations
