@@ -2,12 +2,12 @@
 ## Resiliency in Giant-scale Systems
 | key | value | 
 |-----|-------|
-|When: | TBD |
-|Where: | TBD |
+|When: | MWF 1:20 - 2:25PM |
+|Where: | my zoom room |
 |Who: | Peter Alvaro |
 |Office hours: | TBD |
-|Prerequisites: | A background in systems and an interest in theory |
-|Readings: | [Readings](https://github.com/palvaro/CSE290S-Winter21/blob/master/readings.md) (volatile; subject to significant change)|
+|Prerequisites: | A background in systems, an interest in theory, and a sincere curiosity about how stuff works and breaks |
+|Readings: | [Readings](https://docs.google.com/spreadsheets/d/1MAhmHa4JQfOIXcwKv63uL9WlO1NBzfosml8oAEb3qJo/)|
 
 # Description
 
@@ -19,7 +19,7 @@ Due to fundamental uncertainty in their executions arising from asynchronous com
 Large-scale web services such as Google, Facebook, Twitter, Amazon, Netflix, and many others require the cooperation of many thousands
 of physical computers, any of which may fail or misbehave at any time, to support their user-facing services.  How do these sites
 continue to run?  Exactly how and why do they (rarely) fail to run?  How does the state of the art in resiliency for these massive-scale
-systems look different than it did a mere decade ago?  I would very much like to discuss these questions in the context of receent research.
+systems look different than it did a mere decade ago?  I would very much like to discuss these questions in the context of the current state of the art.
 
 Readings will be drawn from academic as well as industrial sources.  Topics will include emerging work on:
 
