@@ -1,3 +1,6 @@
+# OLD deprecated reading list
+
+
 | Date | Subject | Readings |
 |------|-----|------|
 |1/5 | Welcome | |
