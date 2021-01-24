@@ -7,7 +7,8 @@
 |Who: | Peter Alvaro |
 |Office hours: | TBD |
 |Prerequisites: | A background in systems, an interest in theory, and a sincere curiosity about how stuff works and breaks |
-|Readings: | [Readings](https://docs.google.com/spreadsheets/d/1MAhmHa4JQfOIXcwKv63uL9WlO1NBzfosml8oAEb3qJo/)|
+|Readings: | [ScratchPad](https://docs.google.com/spreadsheets/d/1MAhmHa4JQfOIXcwKv63uL9WlO1NBzfosml8oAEb3qJo/)|
+|| [Schedule](https://docs.google.com/spreadsheets/d/16ci4uyMmxFQP-9zuq-HsccjUdyNWOmrHwzGBBD6hW2M/edit#gid=0)|
 
 # Description
 
