@@ -5,7 +5,7 @@
 |When: | MWF 1:20 - 2:25PM |
 |Where: | my zoom room |
 |Who: | Peter Alvaro |
-|Office hours: | TBD |
+|Office hours: | Tuesdays @11:30 |
 |Prerequisites: | A background in systems, an interest in theory, and a sincere curiosity about how stuff works and breaks |
 |Readings: | [ScratchPad](https://docs.google.com/spreadsheets/d/1MAhmHa4JQfOIXcwKv63uL9WlO1NBzfosml8oAEb3qJo/)|
 || [Schedule](https://docs.google.com/spreadsheets/d/16ci4uyMmxFQP-9zuq-HsccjUdyNWOmrHwzGBBD6hW2M/edit#gid=0)|
